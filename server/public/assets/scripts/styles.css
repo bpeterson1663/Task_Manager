@@ -1,0 +1,26 @@
+form{
+  margin: 10px auto;
+  text-align: center;
+}
+h1{
+  margin: 5px auto;
+  text-align: center;
+}
+h2{
+  margin-top: 20px;
+}
+.container{
+  margin: 0 auto;
+  text-align: center;
+  background-image: url('/assets/images/notepad.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 600px;
+  background-position: center;
+}
+.task{
+  margin-top: 10px;
+}
+.crossOut{
+  text-decoration: line-through;
+}
