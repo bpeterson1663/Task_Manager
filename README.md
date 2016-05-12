@@ -1,4 +1,8 @@
 # task_manager
+http://dry-taiga-99811.herokuapp.com/
+
+Prime Digital Academy Assignment
+
 Welcome to your 4th weekend challenge! Full stack is pretty awesome huh? The idea in such a short time, you are able to spin up a full application architecture is pretty incredible. Also worth noting, there are only two weekend challenges left!
 
 This weekend is all about showing us that you have a handle on each of the different parts of the full stack. For this weekends challenge, you are going to create a 'TO DO' application. This is the type of application that is very common to tackle when learning a new language, which makes it extremely valuable to work through for the first time, since chances are good that at some point in your career you will tackle this type of application, but in another language.
