@@ -1,7 +1,10 @@
-# task_manager
+# Task_Manager
+
+This was an assignment at Prime Digital Academy in which we were to create a To-Do List Application. It was one of our first assignments creating a Full Stack Assignment. Feel free to click the link below to check it out. 
+
 http://dry-taiga-99811.herokuapp.com/
 
-Prime Digital Academy Assignment
+##Directions
 
 Welcome to your 4th weekend challenge! Full stack is pretty awesome huh? The idea in such a short time, you are able to spin up a full application architecture is pretty incredible. Also worth noting, there are only two weekend challenges left!
 
