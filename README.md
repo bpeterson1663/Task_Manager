@@ -1,4 +1,4 @@
-# Task_Manager
+# Task Manager
 
 This was an assignment at Prime Digital Academy in which we were to create a To-Do List Application. It was one of our first assignments creating a Full Stack Assignment. Feel free to click the link below to check it out. 
 
